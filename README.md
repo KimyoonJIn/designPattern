@@ -1,5 +1,5 @@
 # designPattern
-Studying the design pattern of Java while watching the lecture named [자바 디자인 패턴 이해](https://www.youtube.com/watch?v=UEjsbd3IZvA&list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY).
+Studying the design pattern of Java while watching the lecture named [자바 디자인 패턴 이해](https://www.youtube.com/watch?v=UEjsbd3IZvA&list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY). The lecture of codes are here, and the summaries are posted on my blog.
 
 ## Overview
 1. Strategy Pattern
@@ -23,5 +23,3 @@ Studying the design pattern of Java while watching the lecture named [자바 디
 19. Flyweight Pattern
 20. Proxy Pattern
 21. Command Pattern
-
-The lecture of codes are here, and the summaries are posted on my blog.
